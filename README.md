@@ -1,4 +1,5 @@
 FIVER FRONTEND CLONE 
+USING REACT AND SCSS
 
 # Getting Started with Create React App
 
